@@ -1,0 +1,20 @@
+# build output
+/build/
+bench
+server
+client
+*.o
+*.a
+
+# generated experiment data (regenerate with scripts/run_demo.sh)
+/*.csv
+/*.png
+*.log
+
+# keep committed figures under docs/
+!docs/*.png
+
+# editor noise
+.vscode/
+.idea/
+*.swp
