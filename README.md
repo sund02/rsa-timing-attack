@@ -1,4 +1,4 @@
-# RSA Timing Side-Channel Analysis: Attack and Mitigation
+# Remote Timing Analysis of an RSA Decryption Oracle over TCP: Attack and Mitigation
 
 ## Overview
 
